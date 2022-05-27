@@ -1,0 +1,5 @@
+$faker->numerify('+212'.'###-###-####')
+lexify('????'.'@gmail.com')
+$faker->randomElement(['BAC+2','Qualifier'])
+$faker->paragraph(mt_rand(0, 2))
+$faker->sentence(2)
